@@ -15,7 +15,7 @@ Requires the index.html file, randomWalkTrack.js and randomWalkTrack.css files t
 
 # Usage:
 
-Load the HTML file in a browser to see the data.
+Load the HTML file in a browser to see the data.  Click the screen to add balls.
 
 # Support:
 
