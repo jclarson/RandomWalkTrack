@@ -2,7 +2,7 @@
 
 Random Walk Track
 
-#Description:
+# Description:
 
 The goal of this project was to create balls that perform a "random walk", moving a random step amount.
 The balls also leave a trail of color to track their movement.
